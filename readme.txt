@@ -5,7 +5,12 @@ Git tracks changes of files.
 Creating a new branch is quick.
 ddd
 <<<<<<< HEAD
+<<<<<<< HEAD
 hh
 =======
 ff
 >>>>>>> ff
+=======
+hh
+kk
+>>>>>>> ee
