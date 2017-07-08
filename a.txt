@@ -1,9 +1,1 @@
-helloworld！
-
-a:hello！
-
-<<<<<<< HEAD
-master
-=======
-dev
->>>>>>> dev
+hello
